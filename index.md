@@ -17,3 +17,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# How to put an elephant into a refrigerator
+
+- [x] Open the door of refrigerator
+- [ ] Put the elephant into refrigerator
+- [ ] Close the door of refrigerator
